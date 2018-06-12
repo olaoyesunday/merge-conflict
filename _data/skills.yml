@@ -1,12 +1,23 @@
 # Skills
 
 # Education
-  Skill: Education
- description: Developed and maintained various conference talks, online training, and in-person trainings covering various topics including Git, GitHub, and Open Source.
-# Programing
-   - Skill: PHP
-      description: Proficient in PHP, Ecommerce, Content Management System
-      
-  # Elaarning
-   - Skill: Moodle, WIZIQ, Populi
-     description: Highly proficient in the use of Moodle. WIZIQ for learning management system
+
+- skill: Education
+
+  description: Developed and maintained various conference talks, online training, and in-person trainings covering various topics including Git, GitHub, and Open Source.
+
+
+
+# Programming
+
+- skill:  PHP
+
+  description: Proficient in PHP, Ecommerce, Content Management System.
+
+
+# Elearning
+
+- skill:  Moodle, WIZIQ, Populi
+
+  description: Highly proficient in the use of Moodle. WIZIQ for learning management system.
+
